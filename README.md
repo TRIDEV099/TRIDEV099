@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm JINWOO</h1>
+<h1 align="center">Hi 👋, I'm TRIDEV</h1>
 <h3 align="center">I am from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/TRIDEV099/TRIDEV099/raw/refs/heads/main/typing">
